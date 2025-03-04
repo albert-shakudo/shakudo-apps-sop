@@ -7,8 +7,8 @@ import { Header } from "@/components/Header";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Dialer",
-  description: "Dialer Management Dashboard",
+  title: "Shakudo AI SOP Management",
+  description: "AI-Powered Standard Operating Procedure Management System",
 };
 
 export default function RootLayout({
